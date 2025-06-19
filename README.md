@@ -7,8 +7,8 @@ Tracking my progress of the 100 Days of Code with daily Python projects and chal
 
 | Day | Project | Link |
 |-----|---------|------|
-| Day 01 | Band Name Generator | [main.py](./Daily-Projects/DAY-01/main.py) |
-| Day 02 | Tip Calculator | [main.py](./Daily-Projects/DAY-02/main.py) |
+| Day 01 | Band Name Generator | [main.py](./Daily-Projects/DAY-01-Band_Name_Generator/main.py) |
+| Day 02 | Tip Calculator | [main.py](./Daily-Projects/DAY-02-Tip_Calculator/main.py) |
 | Day 03 | Treasure Island | [main.py](./Daily-Projects/DAY-03/main.py) |
 | Day 04 | Rock Paper Scissors | [main.py](./Daily-Projects/DAY-04/main.py) |
 | Day 05 | Password Generator | [main.py](./Daily-Projects/DAY-05/main.py) |
