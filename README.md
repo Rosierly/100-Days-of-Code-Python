@@ -14,7 +14,7 @@ Tracking my progress of the 100 Days of Code with daily Python projects and chal
 | Day 05 | Password Generator | [main.py](./Daily-Projects/DAY-05/main.py) |
 | Day 06 | No project | [main.py](./Daily-Projects/DAY-06/main.py) |
 | Day 07 | Hangman | [main.py](./Daily-Projects/DAY-07/main.py) |
-| Day 08 | ............ | [main.py](./Daily-Projects/DAY-08/main.py) |
+| Day 08 | Caesar Cipher | [main.py](./Daily-Projects/DAY-08/main.py) |
 | ... | ... | ... |
 
 ---
