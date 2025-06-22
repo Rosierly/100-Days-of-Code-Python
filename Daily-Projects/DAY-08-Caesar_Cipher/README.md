@@ -11,8 +11,6 @@ Today I focused on writing flexible, reusable functions and using arguments effe
 -  Practiced **positional vs keyword arguments**
 -  Used methods like `.count()` and `.index()` for working with strings/lists
 -  Applied built-in math rounding methods: `math.ceil()` and `math.floor()`
--  Implemented **input validation** inside a loop
--  Created a **replay loop** to run the program multiple times
 
 ---
 
