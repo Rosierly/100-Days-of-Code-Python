@@ -12,7 +12,6 @@ Today was about building a fully interactive game using loops, conditionals, str
 -  Using `in` and `not in` to check membership in strings/lists
 -  Creating and using custom Python modules (`import from`)
 -  Displaying game state dynamically with ASCII art and feedback
--  Maintaining state between iterations (like guessed letters and lives)
 -  Modular function design to break down complex logic into smaller parts
 
 ---
