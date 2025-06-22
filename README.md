@@ -15,6 +15,7 @@ Tracking my progress of the 100 Days of Code with daily Python projects and chal
 | Day 06 | No Final Project | [README.md](./Daily-Projects/DAY-06-Reeborgs_World/README.md) |
 | Day 07 | Hangman | [main.py](./Daily-Projects/DAY-07-Hangman/main.py) |
 | Day 08 | Caesar Cipher | [main.py](./Daily-Projects/DAY-08-Caesar_Cipher/main.py) |
+| Day 09 | Secret Auction | [main.py](./Daily-Projects/DAY-09-Secret_Auction/main.py) |
 | ... | ... | ... |
 
 ---
