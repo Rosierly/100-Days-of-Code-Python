@@ -49,4 +49,3 @@ for char in password:
     new_password += char
 
 print(password)
-
