@@ -1,5 +1,7 @@
 #  Day 1 – Python Basics & Band Name Generator 
 
+---
+
 ## 📚 What I Learned
 
 Today I practiced the fundamentals of Python, including:
