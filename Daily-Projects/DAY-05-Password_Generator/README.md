@@ -1,4 +1,4 @@
-#  Day 5 – Loops & Randomization | PyPassword Generator 🔐
+#  Day 5 – Loops & Randomization | Password Generator 🔐
 
 ---
 
@@ -25,7 +25,7 @@ Today I practiced using Python's loop structures, list handling, and the random 
 
 ---
 
-## 🛠 Project: PyPassword Generator
+## 🛠 Project: Password Generator
 
 A command-line program that generates a strong, customizable password based on user-defined criteria.
 
