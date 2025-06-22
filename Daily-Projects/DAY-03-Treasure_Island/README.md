@@ -1,5 +1,7 @@
 # Day 3 – Conditionals & Logic | Treasure Island Game
 
+---
+
 ## 📚 What I Learned
 
 Today I practiced using Python's conditional statements to control program flow:
