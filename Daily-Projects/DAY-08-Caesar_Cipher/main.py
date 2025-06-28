@@ -31,12 +31,10 @@ def get_valid_inputs():
 def run_caesar_cipher(shift_direction, user_message, shift_number):
     """Apply caesar cipher to encode or decode the given message."""
     final_message = ""
-    result_type = "encoded"
 
     # Reverse the shift_number for decoding
     if shift_direction == "decode":
         shift_number *= -1
-        result_type = "decoded"
 
     # Shift each character in the message
     for character in user_message:
@@ -47,7 +45,7 @@ def run_caesar_cipher(shift_direction, user_message, shift_number):
         else:  # Leave characters that aren't in the alphabet unchanged
             final_message += character
 
-    print(f"Here's the {result_type} result: {final_message}")
+    print(f"Here's the {shift_direction}d result: {final_message}")
 
     # Ask the user if they want to run the program again
     go_again = input("Type 'yes' if you want to go again. Otherwise type 'no'.\n").lower()
@@ -58,11 +56,10 @@ def run_caesar_cipher(shift_direction, user_message, shift_number):
 
 
 def start_program():
-    """Display logo and start Caesar cipher program."""
-    print(logo)
+    """Start the Caesar cipher program."""
     direction, text, shift = get_valid_inputs()
     run_caesar_cipher(direction, text, shift)
 
 
+print(logo)
 start_program()
-
