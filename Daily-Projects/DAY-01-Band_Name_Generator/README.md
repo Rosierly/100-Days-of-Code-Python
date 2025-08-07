@@ -23,3 +23,7 @@ A simple Python program that generates a band name by combining the name of your
 - **SyntaxError**: Code grammar mistakes.
 - **Indentation Error**: Proper code spacing.
 - **Comments (`#`)**: Adding notes in code.
+
+---
+
+See [NOTES.md](./NOTES.md) for detailed explanations of each concept.
