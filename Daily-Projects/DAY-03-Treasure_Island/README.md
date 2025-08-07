@@ -1,4 +1,4 @@
-# Day 03 - Treasure Island Game
+# Day 3 - Treasure Island Game
 
 A text-based adventure game where the player makes choices to find the treasure.
 
