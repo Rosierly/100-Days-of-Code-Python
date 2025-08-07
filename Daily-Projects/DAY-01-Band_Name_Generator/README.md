@@ -1,4 +1,4 @@
-# Day 01 - Band Name Generator
+# Day 1 - Band Name Generator
 
 A simple Python program that generates a band name by combining the name of your hometown and your pet's name.
 
